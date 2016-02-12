@@ -1,1 +1,1 @@
-Chat for Jammint.
+Chat Version for Jammint.
