@@ -1,0 +1,305 @@
+category_id;id;question;trending_score;updatedDate
+1;135;Test1;0.1;2015-10-13 02:53:41
+1;175;Test Question Auto Share 4;0.2;2015-12-21 22:00:00
+1;173;Test Question Auto Share 2;0.5;2016-08-05 15:31:08
+1;273;Curb?;0.7;2016-09-26 00:41:13
+1;174;Test Question Auto Share 3;0.9;2016-03-09 20:14:06
+1;172;Test Question Auto Share;1;2016-08-05 15:26:38
+1;151;mohave;1.1;2015-10-23 17:50:22
+1;189;Which is better 2?;1.1;2016-08-05 12:34:57
+1;272;Cat from?;1.2;2016-09-26 00:41:13
+1;109;Best Adele album;1.3;2015-10-19 22:47:08
+1;190;Which is better 3?;1.3;2016-01-06 19:34:55
+1;315;Word 4;1.5;2016-11-17 00:35:15
+1;130;4K TV or HD Projector;1.8;2016-03-16 04:59:54
+1;22;Who was dressed best?;1.9;2016-05-29 22:27:59
+1;111;What's the best TV Series;2;2016-03-16 05:00:12
+1;187;Which is better?;2;2016-08-05 12:34:55
+1;247;test23;2.1;2016-09-26 00:41:31
+1;13;Beatles or Rolling Stones?;2.3;2016-03-03 17:11:35
+1;300;CD5?;2.3;2016-09-26 00:40:55
+1;326;Are you experienced?;2.3;2016-11-17 00:34:31
+1;18;All about the ?;2.4;2016-07-29 00:23:10
+1;27;May the force be with who?;2.4;2016-05-29 22:28:09
+1;248;Time to die?;2.4;2016-09-26 00:41:31
+1;321;Jdhdh;2.4;2016-12-19 16:36:30
+1;46;Who is your favorite leading lady?;2.5;2015-07-23 23:19:25
+1;226;Fast or Furious?;2.5;2016-09-26 00:41:48
+1;294;From Preview Modal Event;2.5;2016-09-26 00:40:59
+1;338;Are you ready?;2.5;2016-11-28 01:29:07
+1;32;Who is your favorite Game of Thrones character?;2.6;2015-07-16 03:59:22
+1;257;GTM shenanigans?;2.6;2016-09-26 00:41:22
+1;76;What is your favorite streaming service?;2.7;2016-03-08 02:52:11
+1;184;Word;2.7;2016-08-05 12:34:42
+1;249;I make them;3.5;2016-09-26 00:41:29
+1;295;Which was Jeff Bridges' best film?;3.5;2016-09-26 00:40:58
+1;88;Dave, Jay, Conan or Fallon?;3.7;2015-08-06 02:48:17
+1;206;wassup;3.9;2016-09-26 00:42:06
+1;318;Daft punk?;4;2016-11-17 00:35:06
+1;264;Actress;4.3;2016-09-26 00:41:18
+1;246;Yes;4.4;2016-09-26 00:41:32
+1;179;Best 2015 car;4.8;2016-08-05 12:44:00
+1;10;What is the best cartoon of all time?;5.1;2016-03-03 17:17:13
+1;312;X gonna give it to you?;5.1;2016-11-17 00:35:31
+1;307;Who are you?;5.4;2016-11-17 00:36:00
+1;93;Best cartoon ever;5.9;2016-06-20 16:01:54
+1;81;Do you like folk music?;7.2;2016-06-20 16:01:13
+1;118;Better Fighter;7.3;2016-06-20 16:00:41
+1;210;Dynomite?;8;2016-09-26 00:42:03
+1;227;Are you not entertained?;8.4;2016-09-26 00:41:47
+1;159;Whatcha talkin bout Willis?;8.6;2016-06-20 15:58:39
+1;265;Supermodel ;9.7;2016-09-26 00:41:18
+1;97;Best Al Pacino's movie;11;2016-11-03 14:41:42
+1;203;Bloke;14.9;2016-09-26 00:42:08
+1;1;What's the best sitcom of all time;17.1;2016-06-20 15:55:07
+2;269;test858463673;0.5;2016-09-26 00:41:16
+2;270;YesGA;0.6;2016-09-26 00:41:15
+2;274;AskGTM2?;0.7;2016-09-26 00:41:12
+2;324;Test q;0.8;2016-12-19 16:31:32
+2;275;AskGTM3?;0.9;2016-09-26 00:41:12
+2;168;Yes;1.2;2016-08-05 15:26:12
+2;198;Test43;1.2;2016-09-26 00:42:17
+2;278;TestGTM9?;1.2;2016-09-26 00:41:10
+2;280;TestGTM11?;1.2;2016-09-26 00:41:09
+2;196;Exit?;1.6;2016-09-26 00:42:19
+2;163;Yoga anyone?;1.9;2016-08-01 12:42:30
+2;105;Lake, Ocean or River;2;2016-03-30 18:45:46
+2;237;Brazil;2;2016-09-26 00:41:39
+2;176;Paris?;2.3;2016-08-05 12:43:49
+2;185;Best Hotel in the World?;2.4;2016-08-05 12:34:47
+2;235;Yacht;2.5;2016-09-26 00:41:41
+2;334;Test 2;2.5;2016-11-21 16:23:36
+2;113;Best city at night ;2.7;2015-11-27 23:30:55
+2;49;New York, San Francisco, or LA?;2.8;2016-05-29 22:23:39
+2;256;Test tracking on share prompt?;2.8;2016-09-26 00:41:23
+2;75;What city has the most beautiful skyline?;3.2;2016-01-07 15:14:36
+2;205;Where in the world is carmen san diego?;3.3;2016-09-26 00:42:07
+2;238;Vacations with kids ;3.3;2016-09-26 00:41:38
+2;106;Which came first?;3.6;2015-10-13 00:40:38
+2;217;Testing URL;3.7;2016-09-26 00:41:56
+2;290;Undefined765;4.4;2016-09-26 00:41:02
+2;12;Cape Cod or Narragansett?;4.6;2016-05-29 22:23:30
+2;158;Best tower in Europe;5.1;2016-03-16 04:57:59
+2;311;NewMXP;5.1;2016-11-17 00:35:34
+2;310;who's the man?;5.3;2016-11-17 00:35:42
+2;90;Best vacation destination?;5.7;2015-10-14 16:25:01
+2;115;Window or aisle? ;5.8;2016-06-20 16:02:27
+2;92;What is the most haunted house on earth?;6.5;2016-06-20 16:01:51
+2;292;gtm 9874?;6.7;2016-09-26 00:41:01
+2;146;Best daily commute;10;2016-06-20 15:57:00
+2;116;Chicken or pasta ;13.7;2016-06-20 15:55:43
+3;271;From form;0.7;2016-09-26 00:41:14
+3;221;Ask question conversion as event?;1;2016-09-26 00:41:52
+3;325;You can't be serious?!?;1;2016-11-17 00:34:38
+3;277;TestGTM6?;1.2;2016-09-26 00:41:11
+3;284;GTM87?;1.2;2016-09-26 00:41:06
+3;283;GTM99?;1.3;2016-09-26 00:41:07
+3;214;Chocolate;1.4;2016-09-26 00:41:59
+3;285;GTM87>?;1.4;2016-09-26 00:41:06
+3;197;Tr;1.5;2016-09-26 00:42:19
+3;41;What is your favorite pie?;1.7;2015-08-01 01:46:40
+3;314;Bit by the cobra?;1.8;2016-11-17 00:35:19
+3;16;What's your favorite beer style?;1.9;2016-07-29 00:22:58
+3;44;What is your favorite sushi to eat?;1.9;2015-07-15 15:16:58
+3;337;Do you know the muffin man?;1.9;2016-11-21 16:23:29
+3;25;Warriors or Cavs?;2;2016-05-29 22:28:08
+3;38;What's best on the grill for July 4?;2;2015-07-17 16:18:49
+3;169;Favorite fruit?;2;2016-08-05 15:26:23
+3;211;GTM form success action = SubmitSuccess ;2;2016-09-26 00:42:01
+3;297;Custom dimension?;2;2016-09-26 00:40:57
+3;316;Hdhehdh;2.1;2016-11-17 00:35:11
+3;15;Red or White?;2.2;2016-07-29 00:22:54
+3;127;What is your favorite cookie?;2.2;2016-02-11 00:32:39
+3;287;GTM98734;2.2;2016-09-26 00:41:04
+3;298;CD?;2.2;2016-09-26 00:40:57
+3;289;Undefined1;2.3;2016-09-26 00:41:03
+3;218;What is this?;2.5;2016-12-23 20:20:34
+3;327;Share crash?;2.6;2016-11-21 16:24:07
+3;125;Will Bourdain's food hall be a success?;3.1;2016-03-16 05:01:59
+3;302;cd76;3.1;2016-09-26 00:40:54
+3;207;Validate me?;3.2;2016-09-26 00:42:05
+3;252;Should i drink a beer?;3.2;2016-09-26 00:41:25
+3;171;Cubano sandwich?;3.4;2016-08-05 15:26:36
+3;304;cd923?;3.6;2016-11-17 00:36:55
+3;253;What's your favorite beer?;3.7;2016-09-26 00:41:25
+3;291;GTM983;3.8;2016-09-26 00:41:01
+3;309;mp98?;4;2016-11-17 00:35:49
+3;14;Mussels or Clams?;4.1;2016-07-29 00:22:48
+3;301;CD8?;4.4;2016-09-26 00:40:55
+3;308;Funnel next?;4.7;2016-11-17 00:35:56
+3;11;What's the best meat?;4.8;2016-03-09 20:14:23
+3;319;Best gum?;5;2016-11-17 00:35:02
+3;251;U sure bout dat?;5.2;2016-09-26 00:41:26
+3;132;Test;5.6;2016-06-20 16:02:59
+3;94;What is the best cereal?;7.7;2016-12-23 20:22:26
+3;95;Best Pizza in San Francisco?;7.7;2016-12-23 20:22:28
+3;96;What is the best ethnic food;8.8;2016-12-23 20:20:58
+3;86;What's the best flavor of pie?;16.7;2016-12-23 20:20:46
+4;152;alpha;0.7;2015-10-13 20:17:30
+4;199;This or that?;0.7;2016-09-26 00:42:15
+4;164;Yoga 2;0.9;2015-12-11 15:30:13
+4;279;TestGTM10?;1.1;2016-09-26 00:41:10
+4;286;GTM876?;1.1;2016-09-26 00:41:05
+4;281;TestGTM12?;1.3;2016-09-26 00:41:09
+4;193;Link me web?;1.5;2016-01-07 14:38:54
+4;282;TestGTM17?;1.5;2016-09-26 00:41:08
+4;288;Undefined;1.8;2016-09-26 00:41:04
+4;19;What is the best MMO ever;2.1;2016-07-29 00:23:11
+4;157;Delta;2.1;2015-11-27 19:01:23
+4;240;Q;2.2;2016-09-26 00:41:37
+4;299;CD4?;2.7;2016-12-19 16:40:09
+4;20;What is the best RPG of all time?;3.9;2016-07-29 00:23:16
+4;258;IOS Ask Prompt?;6.6;2016-09-26 00:41:22
+4;261;Fuh;7.5;2016-09-26 00:41:20
+4;245;Share prompt?;13.1;2016-09-26 00:41:33
+4;260;Yet?;39.2;2016-09-26 00:41:20
+5;161;Landscape or portrait;0.4;2016-08-01 12:42:25
+5;162;Landscape or portrait v2;0.5;2016-08-01 12:42:29
+5;139;What for?;0.7;2016-03-16 04:58:59
+5;124;Does an open door policy on immigration enhance a nation's security?;0.9;2016-03-16 04:59:16
+5;194;Bear;0.9;2016-09-26 00:42:21
+5;228;Test ?;0.9;2016-09-26 00:41:46
+5;191;Android vs iPhone?;1.1;2016-05-27 00:41:36
+5;123;How long will my DMV appointment take?;1.2;2016-03-16 04:59:20
+5;50;Pool or ocean?;1.5;2016-03-16 04:59:48
+5;134;How awesome is CharlesProxy?;1.5;2016-03-16 04:59:03
+5;39;Will we put a person on Mars?;1.8;2015-10-02 02:04:03
+5;276;TestGTM4?;1.8;2016-09-26 00:41:11
+5;43;Who is your favorite sci-fi writer?;2;2015-09-10 23:06:37
+5;142;Turn down for what?;2.2;2016-03-16 04:58:29
+5;131;Coffe or Speed?;2.4;2016-03-16 04:59:07
+5;42;What is your favorite form element?;2.5;2016-05-29 22:28:16
+5;156;Who's the fairest of them all?;2.7;2015-12-22 18:24:36
+5;65;What's the best way to learn User Interface Design?;2.8;2016-03-16 04:59:45
+5;204;Test this?;3.3;2016-09-26 00:42:07
+5;329;What the?;3.8;2016-11-21 16:24:03
+5;107;Where would you rather live ;3.9;2016-03-16 04:59:27
+5;250;You sure bout that?;3.9;2016-09-26 00:41:29
+5;209;Who is Diego?;4;2016-09-26 00:42:03
+5;36;Should we build maglev trains?;4.1;2016-03-18 17:35:53
+5;100;How hot is too hot in NYC?;7.1;2016-06-20 16:01:16
+5;243;Tester;7.6;2016-09-26 00:41:34
+5;3;Is it fair to recline your airline seat?;8.9;2016-06-20 15:58:04
+5;119;What is the meaning of life?;10.7;2016-08-04 20:00:28
+5;80;Should we phase out coal powered power plants?;11.05;2016-06-20 15:56:17
+5;293;This is an extremely long question placed here in order to test the ability to handle it by the Android App;12.8;2016-09-26 00:41:00
+5;259;Action Jackson?;17.5;2016-09-26 00:41:21
+5;103;What is your favorite news website?;32.6;2016-06-20 15:55:01
+6;136;Question;0.3;2015-10-09 15:33:28
+6;150;Badge;0.6;2015-10-14 16:17:11
+6;229;Android URL test?;0.9;2016-09-26 00:41:45
+6;224;Fast?;1.4;2016-09-26 00:41:50
+6;23;Is fracking dangerous to water supplies?;1.9;2016-05-29 22:28:05
+6;47;Who is the best newscaster?;2;2016-01-13 17:47:03
+6;40;Who is your favorite world leader?;2.2;2016-01-13 17:47:00
+6;74;Do you agree with the Dominique Strauss-Kahn verdict?;2.2;2016-01-13 17:47:06
+6;200;D;2.3;2016-09-26 00:42:12
+6;254;Should I ask a question?;2.8;2016-09-26 00:41:24
+6;202;Dog;3.4;2016-09-26 00:42:08
+6;212;GTM form submission hangs on new preview?;4.1;2016-09-26 00:42:00
+6;99;What should happen to Bill Cosby?;4.2;2015-10-05 23:45:09
+6;241;validation?;4.5;2016-09-26 00:41:36
+6;87;Should Greece be kicked out of the EU?;4.9;2015-08-06 02:46:56
+6;84;Did the supreme court rule correctly on Obama Care?;5.3;2015-07-27 15:19:54
+6;85;Will the NY prison escapees ever be caught?;6.7;2015-09-10 22:36:24
+6;98;Should Greece have been bailed out?;7.2;2016-02-11 01:08:53
+6;79;How would you describe The Donald?;9;2016-01-13 17:47:11
+7;112;What's gonna happen to oil prices? ;0.4;2015-09-11 21:50:16
+7;34;Is Bill DeBlasio doing a good job?;0.8;2016-03-02 16:47:54
+7;33;Should the US Navy patrol the South China Sea?;1;2015-09-07 14:57:35
+7;313;T;1.1;2016-11-17 00:35:26
+7;140;Who should be the next speaker of the house?;1.3;2016-12-23 20:08:13
+7;30;Will Iraq survive as a unified country?;1.4;2016-05-29 22:28:13
+7;35;Is Turkey the key to Middle East peace?;1.4;2015-10-07 02:34:41
+7;320;TvC2;1.6;2016-12-19 16:36:33
+7;215;Now we are cooking with gas?;1.7;2016-09-26 00:41:59
+7;143;Should the US trade Iranian prisoners for Jason Rezaian?;2.1;2015-10-23 17:53:26
+7;21;Who will win?;2.2;2016-12-23 20:07:37
+7;121;Should NATO have shot down the Russian jet that intruded on Turkish airspace?;2.2;2016-02-11 00:32:17
+7;232;Test 4. ;2.4;2016-12-23 20:10:42
+7;122;Should the Trans-Pacific Trade Agreement have been agreed?;3;2016-02-11 00:32:18
+7;296;Trump?;3.2;2016-12-23 20:09:47
+7;17;Who does Vladimir Putin remind you of?;3.7;2016-12-23 20:11:47
+7;306;Hillary or Trump?;4.2;2016-12-23 20:11:18
+7;268;Is voting fixed?;4.4;2016-12-23 20:11:10
+7;208;Lover boy?;4.8;2016-12-23 20:11:06
+7;322;MSNBC;6.6;2016-12-23 20:10:56
+8;195;Girl;0.7;2016-09-26 00:42:20
+8;24;Best spontaneous gift;0.8;2016-05-29 22:28:07
+8;230;Y;1.1;2016-09-26 00:41:45
+8;170;Mob beats?;1.2;2016-08-05 15:26:30
+8;48;Will Apple Music kill Spotify?;1.4;2015-10-08 16:46:26
+8;137;Question;1.5;2015-12-21 21:27:59
+8;155;Charlie;1.7;2015-11-27 23:32:28
+8;303;cd769;3.5;2016-09-26 00:40:54
+8;336;Cat scratch fever?;3.7;2016-12-14 02:49:52
+8;144;Is Randy Quaid a loon?;4;2015-10-23 17:53:16
+9;167;Who's Better;0.4;2015-12-11 19:53:50
+9;222;Ask question event success again convert?;1.1;2016-09-26 00:41:51
+9;339;How bout dem cowboys?;1.6;2016-12-21 21:11:24
+9;234;step;1.7;2016-12-21 18:31:18
+9;108;What's your favorite golf club;1.8;2015-12-02 17:47:12
+9;37;Who was the greatest horse ever?;2.6;2015-09-10 23:30:14
+9;77;Should Sepp Blatter resign immediately;2.6;2016-03-08 02:52:17
+9;236;snow sport;2.6;2016-09-26 00:41:40
+9;225;Try again?;2.8;2016-09-26 00:41:49
+9;28;Barcelona or Juventus?;2.9;2016-05-29 22:28:10
+9;45;Surfing or skiing?;3;2016-05-27 01:54:30
+9;29;Watching the women's world cup?;3.1;2016-05-29 22:28:11
+9;330;Will Warriors Win Again?;3.1;2016-12-21 19:04:38
+9;145;Favorite extreme sport;3.6;2016-12-21 19:04:58
+9;114;Sports after 40;3.7;2016-02-11 00:31:56
+9;51;Where are we seeing the Warriors game tonight?;3.8;2016-12-21 19:05:12
+9;201;Messi o ronaldo?;3.8;2016-09-26 00:42:10
+9;126;Best NFL team after week 4?;4;2016-12-21 19:05:15
+9;104;Will Serena win the grand slam?;4.3;2016-12-21 19:05:19
+9;263;Terps win?;4.5;2016-11-09 23:11:21
+9;305;Is Donnie better than Diego at tennis?;4.5;2016-12-19 16:32:22
+9;26;Favorite Tennis Major: French, US, Australian or Wimbledon?;4.7;2016-12-21 19:05:26
+9;120;Most fun sport;4.9;2016-02-11 00:32:15
+9;89;Who will win 2015 Wimbeldon?;5.5;2015-10-09 13:48:50
+9;233;Test q;6.4;2016-09-26 00:41:42
+9;255;Is Indian Wells the best masters?;7.2;2016-09-26 00:41:23
+9;239;Workout?;7.4;2016-09-26 00:41:37
+9;242;Who dat?;7.6;2016-09-26 00:41:35
+9;2;What's the best sport;8.5;2016-05-27 01:55:39
+9;83;Will DelPo come back to tennis?;10.1;2016-06-10 00:16:26
+9;117;What type of bicyle do you ride?;17.3;2016-05-27 00:43:37
+10;138;What is?;0.1;2015-12-09 19:24:23
+10;223;Immediate posting?;0.6;2016-09-26 00:41:50
+10;148;Post reload;0.9;2015-12-09 19:24:41
+10;154;Foxtrot;1.5;2015-12-09 19:24:51
+10;160;Is my daugther going to like it?;1.5;2016-08-01 12:42:19
+10;192;Link me?;1.8;2016-02-10 02:48:27
+10;335;Why is a mouse when it spins?;1.8;2016-12-23 19:19:30
+10;165;Exif orientation ;2.1;2016-03-03 19:01:23
+10;177;Joy Division;2.1;2016-08-05 12:43:53
+10;129;Missing answer?;2.4;2015-12-09 19:24:03
+10;219;Test;2.7;2016-09-26 00:41:53
+10;178;Reload?;2.8;2016-08-05 12:43:57
+10;328;Test crash;3.4;2016-11-21 16:24:05
+10;153;Bravo;3.5;2015-12-09 19:24:45
+10;317;There you go;3.5;2016-11-17 00:35:09
+10;141;Do you like the new Lebron XIII sneakers?;3.7;2015-12-09 19:24:39
+10;128;Would you wear a real fur coat?;4.1;2016-02-11 00:32:40
+10;133;High top or low top?;5.9;2016-06-20 16:02:25
+10;166;How about this one ;8.8;2016-12-23 19:19:21
+10;267;Web only test;11;2016-12-23 19:19:25
+10;244;ddd;11.3;2016-12-23 19:19:28
+11;149;Badge me;1.1;2016-03-09 20:10:03
+11;186;Aprilia;1.1;2016-08-05 12:34:51
+11;213;Ferrari;1.4;2016-09-26 00:42:00
+11;220;Try again?;1.4;2016-09-26 00:41:52
+11;333;Nov 12, 9:49am PT test;1.8;2016-11-21 16:23:59
+11;180;Ferrari;2;2016-08-05 12:44:02
+11;31;Will you buy an Apple Watch?;2.1;2016-05-29 22:28:13
+11;181;lamborghini;2.1;2016-02-13 23:29:32
+11;182;Bugatti ;2.3;2016-08-05 12:34:35
+11;216;No post?;2.5;2016-09-26 00:41:57
+11;183;Audi;2.6;2016-08-05 12:34:38
+11;110;Paper or plastic?;2.8;2015-10-13 00:41:12
+11;231;Android URL 3 ;3.2;2016-09-26 00:41:44
+11;262;Haircut?;3.5;2016-09-26 00:41:19
+11;266;Dream house;3.8;2016-09-26 00:41:17
+11;147;Test;8.9;2015-10-23 17:52:51
+11;91;What is your dream car?;10.9;2016-11-03 14:41:41
